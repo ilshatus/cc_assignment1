@@ -2,6 +2,8 @@
 
 Code written on Java. For building and testing project used Maven.
 
+Github link: https://github.com/ilshatus/cc_assignment1
+
 ### Maven dependencies
 - ```junit``` for unit tests
 ### Maven plugins
